@@ -48,3 +48,8 @@
 
 
 [cs]: https://github.com/sangamesh001 "this is githublink"
+
+
+![preview](/photos/Screenshot%202023-11-20%20102033.png)
+
+![preview](/photos/Screenshot%202023-11-20%20102530.png)
